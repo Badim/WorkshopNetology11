@@ -1,7 +1,4 @@
 Badim: Hello World!
 AND on Tretyakov1
-<<<<<<< HEAD
 Gleb: Hi all
-=======
 Badim: Hello again!
->>>>>>> 3c9fb1b9a8337a64aecc6f2f71a95eecdbc259d8
